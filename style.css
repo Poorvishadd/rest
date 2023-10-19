@@ -1,0 +1,71 @@
+.head{
+    background-color: black;
+    color:aliceblue;
+    padding: 15px;
+}
+nav{
+    display:inline;
+}
+ul,li,nav{
+    display: inline;
+}
+li{
+    color:grey;
+    cursor: pointer;
+}
+li:hover{
+    color: aqua;
+}
+a:hover{
+    color:aqua;
+}
+ul{
+    margin-left:60%;
+}
+input{
+    width:60%;
+}
+#two{
+    display:block;
+    margin: 10px;
+    padding: 50px;
+
+}
+.one{
+    text-align: center;
+}
+.meet:hover,.party:hover,.candle:hover{
+    color: blueviolet;
+    cursor: pointer;
+}
+.meet,.party,.candle{
+    display: inline-block;
+    width: 220px;
+    height:220px
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    margin-bottom:50px;
+    padding:30px;
+
+}
+.meet{
+    margin-left:50px;
+}
+.party{
+    margin-left: 50px;
+}
+.candle{
+    margin-left:50px;
+}
+
+}
+td{
+    display:inline-block;
+}
+#to,#tooo{
+    background-color: black;
+    color: aliceblue;
+    display:block;
+
+}
